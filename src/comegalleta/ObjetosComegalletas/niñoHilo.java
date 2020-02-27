@@ -1,9 +1,6 @@
 
 package comegalleta.ObjetosComegalletas;
 
-import comegalleta.Interfaz.interfazNiño;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 public class niñoHilo extends Thread {
 
